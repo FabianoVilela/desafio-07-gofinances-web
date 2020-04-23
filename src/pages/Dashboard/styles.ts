@@ -82,10 +82,6 @@ export const TableContainer = styled.section`
       &.outcome {
         color: #e83f5b;
       }
-
-      &.outcome::before {
-        content: '- ';
-      }
     }
 
     td:first-child {
